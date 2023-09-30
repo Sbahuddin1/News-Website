@@ -14,10 +14,10 @@ This is a responsive news website that provides up-to-date news articles from va
 
 
 
-<img src="https://github.com/Sbahuddin1/News-Website/blob/main/public/news%20(1).png" alt="Website Screenshot" width="90%">
+<img src="https://github.com/Sbahuddin1/News-Website/blob/main/public/news%20(1).png" alt="Website Screenshot" width="30%">
 
 
-<img src="https://github.com/Sbahuddin1/News-Website/blob/main/public/news%20(2).png" alt="Website Screenshot" width="90%">
+<img src="https://github.com/Sbahuddin1/News-Website/blob/main/public/news%20(2).png" alt="Website Screenshot" width="30%">
 
 
 
