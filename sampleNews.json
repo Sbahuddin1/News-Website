@@ -1,0 +1,253 @@
+{
+    "status": "ok",
+    "totalResults": 19,
+    "articles": [
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Aimee Picchi",
+        "title": "America's poverty rate soared last year. Children were among the worst hit.",
+        "description": "Incomes fell in 2022 and more people fell into poverty after the end of pandemic benefits like stimulus checks.",
+        "url": "https://www.cbsnews.com/news/poverty-rate-census-income/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/12/83c082d5-4224-49cb-8a20-bd9dd95f2109/thumbnail/1200x630/cced1a48148e305f94c5a89b90646627/gettyimages-1594188792.jpg?v=4e5c11166f529429e37bbcbb597e9315",
+        "publishedAt": "2023-09-12T17:57:03+00:00",
+        "content": "Millions of American families fell into poverty last year as the well of government-funded pandemic aid dried up and incomes shrank, according to new data from the U.S. Census. Children were particul… [+3033 chars]"
+      },
+      {
+        "source": {
+          "id": "australian-financial-review",
+          "name": "Australian Financial Review"
+        },
+        "author": "Timothy Moore",
+        "title": "Fed is done, avoid China: BofA’s fund manager survey",
+        "description": "A clear majority of fund managers expect the US central bank’s next move to be a rate cut, as early as April, according to Bank of America.",
+        "url": "http://www.afr.com/markets/equity-markets/fed-is-done-avoid-china-bofa-s-fund-manager-survey-20230913-p5e45r",
+        "urlToImage": "https://static.ffx.io/images/$zoom_0.1657%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_107/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6931d407fc382b1320f9fdcf8d4384af68f75768",
+        "publishedAt": "2023-09-12T16:58:55Z",
+        "content": "The latest survey reflected responses from 258 participants with $US678 billion ($1 trillion) in assets under management.\r\nThe survey found that fundies allocation to US equities surged 29 percentage… [+2353 chars]"
+      },
+      {
+        "source": {
+          "id": "breitbart-news",
+          "name": "Breitbart News"
+        },
+        "author": "Hannah Bleau",
+        "title": "Kevin McCarthy: 'President Biden Did Lie to American People'",
+        "description": "President Joe Biden lied to the American people, Kevin McCarthy said Tuesday as he announced a formal impeachment inquiry into the president.",
+        "url": "http://www.breitbart.com/politics/2023/09/12/kevin-mccarthy-president-biden-did-lie-to-american-people/",
+        "urlToImage": "https://media.breitbart.com/media/2023/05/Joe-Biden-and-Kevin-McCarthy-640x335.jpg",
+        "publishedAt": "2023-09-12T16:22:30Z",
+        "content": "President Joe Biden lied to the American people, House Speaker Kevin McCarthy (R-CA) said Tuesday as he announced a formal impeachment inquiry into the 80-year-old commander-in-chief.\r\n“Through our i… [+2165 chars]"
+      },
+      {
+        "source": {
+          "id": "buzzfeed",
+          "name": "Buzzfeed"
+        },
+        "author": "gnico",
+        "title": "These 22 Movies Are Considered American Classics — Have You Seen 'Em All?",
+        "description": "I bet you know a quote from every single one of these...",
+        "url": "https://www.buzzfeed.com/gnico/classic-movies-checklist",
+        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-09/6/16/enhanced/90ce5818fab8/original-915-1694018757-2.jpg?crop=1243:651;0,58%26downsize=1250:*",
+        "publishedAt": "2023-09-12T16:07:27.290004Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Shannon Najmabadi",
+        "title": "Why More Baby Boomers Are Sliding Into Homelessness",
+        "description": "The aging of America means more old people on fixed incomes are overwhelmed by the high cost of housing and other financial shocks; ‘not seen since the Great Depression’",
+        "url": "https://www.wsj.com/economy/housing/why-more-baby-boomers-are-homeless-2d2b913b?mod=hp_lead_pos7",
+        "urlToImage": "https://images.wsj.net/im-831235/social",
+        "publishedAt": "2023-09-12T14:00:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news-ar",
+          "name": "Google News (Argentina)"
+        },
+        "author": "Infobae America",
+        "title": "La cifra oficial de víctimas del ciclón Daniel en Libia subió a 2.356 muertos y 7.340 heridos - Infobae America",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5pbmZvYmFlLmNvbS9hbWVyaWNhL211bmRvLzIwMjMvMDkvMTIvbGEtY2lmcmEtb2ZpY2lhbC1kZS12aWN0aW1hcy1kZWwtY2ljbG9uLWRhbmllbC1lbi1saWJpYS1zdWJpby1hLTIzNTYtbXVlcnRvcy15LTczNDAtaGVyaWRvcy_SAaEBaHR0cHM6Ly93d3cuaW5mb2JhZS5jb20vYW1lcmljYS9tdW5kby8yMDIzLzA5LzEyL2xhLWNpZnJhLW9maWNpYWwtZGUtdmljdGltYXMtZGVsLWNpY2xvbi1kYW5pZWwtZW4tbGliaWEtc3ViaW8tYS0yMzU2LW11ZXJ0b3MteS03MzQwLWhlcmlkb3MvP291dHB1dFR5cGU9YW1wLXR5cGU?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-09-12T13:24:16+00:00",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "ROBERT BADENDIECK and SUZAN FRASER",
+        "title": "American researcher doing well after rescue from a deep Turkish cave, calling it a 'crazy adventure'",
+        "description": "ISTANBUL (AP) — An American researcher was “doing well” at a Turkish hospital, officials said Tuesday, after rescuers pulled him out of a cave where he fell seriously ill and became trapped 1,000 meters (more than 3,000 feet) below its entrance for over a wee…",
+        "url": "https://apnews.com/2c9598907421554d5894f24a97349ecf",
+        "urlToImage": "https://storage.googleapis.com/afs-prod/media/146c806eeb8b433faf2a095771d9ec42/1280.jpeg",
+        "publishedAt": "2023-09-12T11:10:10Z",
+        "content": "ISTANBUL (AP) — An American researcher was “doing well” at a Turkish hospital, officials said Tuesday, after rescuers pulled him out of a cave where he fell seriously ill and became trapped 1,000 met… [+4057 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "John Fritze",
+        "title": "Alabama asks Supreme Court to halt redrawing of congressional map in battle over Black voting power",
+        "description": "The appeal came days after a court in Alabama struck down the state's congressional map for not including a second majority African American district.",
+        "url": "https://www.usatoday.com/story/news/politics/2023/09/11/alabama-supreme-court-congressional-districts-black-voting-rights-act/70828908007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/08/USAT/331ba9b1-7a62-4ce5-853e-58b44f0ddc35-USP_Alabama.JPG?crop=4948,2784,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2023-09-12T01:15:39Z",
+        "content": "WASHINGTON Alabama officials filed an emergency appeal at the Supreme Court on Monday, asking the high court to once again review its controversial congressional map in a case that could have implica… [+1760 chars]"
+      },
+      {
+        "source": {
+          "id": "time",
+          "name": "Time"
+        },
+        "author": "Jamie Ducharme",
+        "title": "America Has Reached Peak Therapy. Why Is Our Mental Health Getting Worse?",
+        "description": "More people in the U.S. are seeking mental health care than ever before, but mental health is getting worse. What's going wrong?",
+        "url": "http://time.com/6308096/therapy-mental-health-worse-us/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2023/08/therapy-america.jpg?quality=85",
+        "publishedAt": "2023-08-28T12:00:00Z",
+        "content": "The U.S. has reached peak therapy. Counseling has become fodder for hit books, podcasts, and movies. Professional athletes, celebrities, and politicians routinely go public with their mental health s… [+17988 chars]"
+      },
+      {
+        "source": {
+          "id": "recode",
+          "name": "Recode"
+        },
+        "author": "Marina Bolotnikova",
+        "title": "Plane vs. car safety: America has the world’s safest air travel but is so bad at car safety",
+        "description": "Three things the US can learn about road safety from our ultra-safe air travel system.",
+        "url": "https://www.vox.com/future-perfect/2023/8/25/23844717/america-safe-air-travel-car-safety-accidents",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/_4PGZkIkTS27mQm9dyn0_RUUaMI=/0x212:4680x2662/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24871336/GettyImages_200562205_002.jpg",
+        "publishedAt": "2023-08-25T13:00:00Z",
+        "content": "In the last decade, two passengers have been killed in accidents on US commercial airlines. Over the same period, more than 365,000 Americans have been killed by cars. \r\nYet it was the safety of the … [+7596 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-times",
+          "name": "The Washington Times"
+        },
+        "author": "Ryan Lovelace",
+        "title": "House lawmakers urge Biden administration to defend U.S. against North Korean cyber onslaught",
+        "description": "House lawmakers are urging the Biden administration to take action to protect Americans in response to new details of North Korean hackers targeting U.S. officials first reported by The Washington Times.",
+        "url": "https://www.washingtontimes.com/news/2023/jun/6/house-lawmakers-urge-biden-administration-defend-u/",
+        "urlToImage": "https://twt-thumbs.washtimes.com/media/dupe--/05/19/North_Korea_WannaCry_Cyberattack_46994.jpg-19141.jpg_2023.06.02-02.56.54.753950_c0-296-4000-2629_s1200x700.jpg?d2007bc0b7fe05ee8ee90d41b038baf6f3038e0b",
+        "publishedAt": "2023-06-06T16:30:21Z",
+        "content": "House lawmakers are urging the Biden administration to take action to protect Americans in response to new details of North Korean hackers targeting U.S. officials first reported by The Washington Ti… [+4736 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-times",
+          "name": "The Washington Times"
+        },
+        "author": "Tom Howell Jr.",
+        "title": "Congress fights for the life of AM radio",
+        "description": "The threat of eradicating AM radio in American cars produced a rare scene of bipartisanship in Congress on Tuesday when lawmakers rallied to the defense of the staticky broadcasts.",
+        "url": "https://www.washingtontimes.com/news/2023/jun/6/congress-fights-life-am-radio/",
+        "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2023/05/18/AM_Radio_in_Cars_Congress_50517_c0-106-3951-2410_s1200x700.jpg?e7ec91e5be89a165f18c319a3917c752e74cc158",
+        "publishedAt": "2023-06-06T13:46:55Z",
+        "content": "The threat of eradicating AM radio in American cars produced a rare scene of bipartisanship in Congress on Tuesday when lawmakers rallied to the defense of the staticky broadcasts.\r\nDemocratic and Re… [+6484 chars]"
+      },
+      {
+        "source": {
+          "id": "newsweek",
+          "name": "Newsweek"
+        },
+        "author": "Anna Skinner",
+        "title": "Biden Wants to Send Americans More Checks",
+        "description": "If President Joe Biden's 2024 budget is approved, parents could see more money issued by the government.",
+        "url": "https://www.newsweek.com/biden-wants-send-americans-checks-1786779",
+        "urlToImage": "https://d.newsweek.com/en/full/2206892/president-joe-biden.jpg",
+        "publishedAt": "2023-03-09T20:46:28Z",
+        "content": "<ul><li>President Joe Biden has proposed his 2024 budget which could decrease the deficit by nearly $3 trillion and restore the American Rescue Plan's Child Tax Credit to its 2021 amount.</li><li>The… [+4267 chars]"
+      },
+      {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": "Rich Lowry",
+        "title": "Why We Need Western Civ",
+        "description": "Universities have been conducting an unprecedented experiment in historical amnesia on American students.",
+        "url": "https://www.nationalreview.com/2023/02/why-we-need-western-civ/",
+        "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2019/03/plato-bust-trinity-college.jpg?fit=2057%2C1200",
+        "publishedAt": "2023-02-03T17:43:43Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-american-conservative",
+          "name": "The American Conservative"
+        },
+        "author": null,
+        "title": "Culture Archives - The American Conservative",
+        "description": null,
+        "url": "https://www.theamericanconservative.com/category/culture/",
+        "urlToImage": null,
+        "publishedAt": "2022-07-07T21:37:31.2068471Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-american-conservative",
+          "name": "The American Conservative"
+        },
+        "author": null,
+        "title": "Foreign Affairs Archives - The American Conservative",
+        "description": null,
+        "url": "https://www.theamericanconservative.com/category/foreign-affairs/",
+        "urlToImage": null,
+        "publishedAt": "2022-07-07T21:37:28.1816944Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-american-conservative",
+          "name": "The American Conservative"
+        },
+        "author": null,
+        "title": "Politics Archives - The American Conservative",
+        "description": null,
+        "url": "https://www.theamericanconservative.com/category/politics/",
+        "urlToImage": null,
+        "publishedAt": "2022-07-07T21:37:27.3936289Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-globe-and-mail",
+          "name": "The Globe And Mail"
+        },
+        "author": "Lawrence Martin",
+        "title": "Liz Cheney is making headway in slaying the Trump dragon",
+        "description": "By spearheading congressional hearings into the Jan. 6 attack on the Capitol, the representative is fast becoming an American heroine",
+        "url": "https://www.theglobeandmail.com/opinion/article-liz-cheney-is-making-headway-in-slaying-the-trump-dragon/",
+        "urlToImage": "https://www.theglobeandmail.com/resizer/wCgPPEAVIFE4MLAb_xauhJzJqLI=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/YT6S7Z443RL23MYNL4VZY4WXRQ.jpg",
+        "publishedAt": "2022-06-15T19:24:08Z",
+        "content": "Vice Chair Liz Cheney, Rep. Adam Schiff, and Rep. Adam Kinzinger, stand together during a break as the House select committee investigating the Jan. 6 attack on the U.S. Capitol holds its first publi… [+4635 chars]"
+      },
+      {
+        "source": {
+          "id": "the-hill",
+          "name": "The Hill"
+        },
+        "author": "Alex Gangitano, Rachel Frazin",
+        "title": "Questions grow about Biden’s position on a gas tax holiday",
+        "description": "President Biden is facing growing questions about whether he will throw his support behind a federal gas tax holiday in an attempt to save Americans some money at the pump while gas prices remain high from inflation and the impact of Russia’s invasion into Uk…",
+        "url": "https://thehill.com/policy/equilibrium-sustainability/3260062-questions-grow-about-bidens-position-on-a-gas-tax-holiday/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/04/california-gas-prices_040422_ap-Jeff-Chiu_gasprices.jpg?w=1280",
+        "publishedAt": "2022-04-06T10:03:07Z",
+        "content": "President Biden is facing growing questions about whether he will throw his support behind a federal gas tax holiday in an attempt to save Americans some money at the pump while gas prices remain hig… [+6271 chars]"
+      }
+    ]
+  }
