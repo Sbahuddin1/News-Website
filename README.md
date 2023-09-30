@@ -1,7 +1,7 @@
 
 # Responsive News Website with Multiple Categories
 
-<img src="https://github.com/Sbahuddin1/News-Website/blob/main/public/news%20(3).png" alt="Website Screenshot" width="90%">
+<img src="https://github.com/Sbahuddin1/News-Website/blob/main/public/news%20(3).png" alt="Website Screenshot" width="100%">
 
 ## Overview
 
